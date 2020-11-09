@@ -21,6 +21,6 @@ Follow these steps
 
 3.Once installed type pyinstaller --onefile -w followed by the name of the py file i.e. DataManager.py in this case.
 
-4.After sometime it will show successfully completed.
+4.After sometime it will "show successfully" completed.
 
 5.You will find the .exe file in the dist folder.
