@@ -1,7 +1,10 @@
 # Data-Manager
 1.This is a data manager for students as well as the teachers for storing various forms of data like personal information,grades,attendence,subject allocation and much more.
+
 2.It has an autofill feature where you dont have to re-enter already filled data.
+
 3.All the neccessary data stored can easily be accessed by entering just the roll number of the student.
+
 4.The data is stored as a JSON file in the same directory as of the Data Manager application hence can easily be accessed elsewhere too.
 
 # How to use
